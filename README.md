@@ -7,7 +7,7 @@ Saya Muhammad Dzaka Indrianto dengan NIM 2508755 mengerjakan Tugas Praktikum 4 d
 ## Penjelasan
 alasan saya memilih sata keryawan karna ngikut ajalaya yang kelihatan.<br>
 
-untuk penjelasan struktur for saya disini saya menggunakan Jlabel untuk menamai judul data karyawan, saya juga menggunakan Jlabel untuk penamaan lain seperti melabelkan kegunnan input box di seblah kiri for yaitu box id, nama,dll.<br>
+untuk penjelasan struktur for saya disini saya menggunakan Jlabel untuk menamai judul data karyawan, saya juga menggunakan Jlabel untuk penamaan lain seperti melabelkan kegunnan input box di seblah kiri form yaitu box id, nama,dll.<br>
 
 selanjutnya saya menggunakan JTextField untuk input id, nama, dan tahun lahir, dan biar dapet bonus saya pake jComboBox buat status kategori karyawan sama pake jRadioButton buat jenis kelamin(disini saya pake 2 buat laki laki sama perempuan saya belum nambahin buat yang diluar itu).<br>
 
